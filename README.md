@@ -1,5 +1,12 @@
-### Hi there 👋
+🔭 Focusing on major.
 
+- VVC , MPEG-I
+- DeepLearning ( SuperResolution / Reinforcement )
+
+🔭 Environment Skills
+- Linux / C++ / Python
+
+🔭 Introduction
 https://chldydgh4687.github.io
 
 <!--
