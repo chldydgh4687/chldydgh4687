@@ -1,3 +1,5 @@
+🔭 Introduction : https://chldydgh4687.github.io
+
 🔭 Focusing on major.
 
 - VVC , MPEG-I
@@ -6,8 +8,6 @@
 🔭 Environment Skills
 - Linux / C++ / Python
 
-🔭 Introduction
-https://chldydgh4687.github.io
 
 <!--
 **chldydgh4687/chldydgh4687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
