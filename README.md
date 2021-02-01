@@ -2,7 +2,8 @@
 
 🔭 Focusing on major.
 
-- VVC , MPEG-I
+- VVC, TMIV(MPEGI)
+- 6DOF / 3DOF+
 - DeepLearning ( SuperResolution / Reinforcement )
 
 🔭 Environment Skills
