@@ -2,8 +2,8 @@
 - https://chldydgh4687.github.io
 
 🔭 Graduation
-- IntelligentVisualComputingLab, Sejong Univ. ( M.S.) 
-- Sejong Univ. ( B.S.)
+- (M.S.)[Intelligent Visual Computing Lab](https://sites.google.com/view/ivcl), Sejong Univ.2021.03 – Present
+- B.S. - School of Intelligent Mechatronics Engineering, Sejong University, Feb. 2021
 
 🔭 Focusing on major.
 - VVC, TMIV(MPEGI)
@@ -12,6 +12,7 @@
 
 🔭 Environment Skills
 - Linux / C++ / Python
+- ffmpeg
 
 🔭 interesting
 - Music / Guitar 
