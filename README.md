@@ -2,7 +2,7 @@
 - https://chldydgh4687.github.io
 
 🔭 Graduation
-- (M.S.)[Intelligent Visual Computing Lab](https://sites.google.com/view/ivcl), Sejong Univ.2021.03 – Present
+- M.S. - [Intelligent Visual Computing Lab](https://sites.google.com/view/ivcl), Sejong Univ.2021.03 – Present
 - B.S. - School of Intelligent Mechatronics Engineering, Sejong University, Feb. 2021
 
 🔭 Focusing on major.
