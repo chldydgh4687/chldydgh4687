@@ -8,7 +8,7 @@
 🔭 Focusing on major.
 - VVC, TMIV(MPEGI)
 - 6DOF / 3DOF+
-- DeepLearning ( SuperResolution / Reinforcement )
+- DeepLearning ( SuperResolution )
 
 🔭 Environment Skills
 - Linux / C++ / Python
