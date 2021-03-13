@@ -11,8 +11,10 @@
 - DeepLearning ( SuperResolution )
 
 🔭 Environment Skills
-- Linux / C++ / Python
+- Linux(shell)
+- C++ / Python
 - ffmpeg
+- (Practice) converting pytorch or tensorflow2 ability.
 
 🔭 interesting
 - Music / Guitar 
