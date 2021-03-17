@@ -13,7 +13,7 @@
 🔭 Environment Skills
 - Linux(shell), ffmpeg
 - C++ / Python
-- git managing
+- git management
 - (Practice) converting pytorch to tensorflow2 ability.
 
 🔭 interesting
