@@ -14,7 +14,8 @@
 - Linux(shell), ffmpeg
 - C++ / Python
 - git management
-- (Practice) converting pytorch to tensorflow2 ability.
+- (Studying) converting pytorch to tensorflow2 ability.
+- (Studying) Understanding about Video Codec SW ( TMIV / VTM )
 
 🔭 interesting
 - Music / Guitar 
