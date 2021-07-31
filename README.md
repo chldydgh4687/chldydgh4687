@@ -7,11 +7,11 @@
 
 🔭 Focusing on major.
 - VVC, TMIV(MPEGI)
-- 6DOF / 3DOF+
-- DeepLearning ( SuperResolution )
+- 6DOF
+- DeepLearning ( SuperResolution, GAN )
 
 🔭 Environment Skills
-- Linux(shell), ffmpeg
+- Linux(shell), batch, ffmpeg
 - C++ / Python
 - git management
 - (Studying) converting pytorch to tensorflow2 ability.
