@@ -12,7 +12,7 @@
  ### 🔭 Environment Skills
 - Linux(shell), Windows(batch), ffmpeg
 - C++ / Python
-- git management
+- Docker, git management
 - (Studying) converting pytorch to tensorflow2 ability.
 - (Studying) Understanding about Video Codec SW ( TMIV / VTM )
 
