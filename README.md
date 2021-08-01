@@ -17,8 +17,7 @@
 - (Studying) Understanding about Video Codec SW ( TMIV / VTM )
 
 
- ### 🔭 Paper&StandardActivity
-
+ ### 🔭 Activity
 -
 -
 -
