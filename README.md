@@ -1,24 +1,36 @@
-🔭 Introduction 
-- https://chldydgh4687.github.io
 
-🔭 Graduation
+ ### 🔭Graduation
 - M.S. - [Intelligent Visual Computing Lab](https://sites.google.com/view/ivcl), Sejong Univ.2021.03 – Present
 - B.S. - School of Intelligent Mechatronics Engineering, Sejong University, Feb. 2021
 
-🔭 Focusing on major.
-- VVC, TMIV(MPEGI)
-- 6DOF
-- DeepLearning ( SuperResolution, GAN )
 
-🔭 Environment Skills
-- Linux(shell), batch, ffmpeg
+ ### 🔭 Focusing on major.
+- VideoCoding [VVC,TMIV(MPEGI)]
+- ImageRestoration [DeepLearning ( SuperResolution, GAN )]
+
+
+ ### 🔭 Environment Skills
+- Linux(shell), Windows(batch), ffmpeg
 - C++ / Python
 - git management
 - (Studying) converting pytorch to tensorflow2 ability.
 - (Studying) Understanding about Video Codec SW ( TMIV / VTM )
 
-🔭 interesting
-- Music / Guitar 
+
+ ### 🔭 Paper&StandardActivity
+
+-
+-
+-
+-
+--- 
+- More_Detail : https://chldydgh4687.github.io
+
+--- 
+
+### ⚡ interesting
+- Making some food.
+- Playing most of sports, Guitar.
 
 <!--
 **chldydgh4687/chldydgh4687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
