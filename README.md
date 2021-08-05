@@ -13,8 +13,8 @@
 - Linux(shell), Windows(batch), ffmpeg
 - C++ / Python
 - Docker, git management
-- (Studying) converting pytorch to tensorflow2 ability.
-- (Studying) Understanding about Video Codec SW ( TMIV / VTM )
+- (Studying) pytorch, tensorflow2
+- (Studying) Video Understanding (TMIV/VTM)
 
 
  ### 🔭 Activity
