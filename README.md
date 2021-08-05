@@ -18,13 +18,12 @@
 
 
  ### 🔭 Activity
--
--
--
--
---- 
-- More_Detail : https://chldydgh4687.github.io
+- JVET-T0096 AHG11:Deep neural network for super resolution (Oct, 2020)
+- m56611 The crosscheck report for EE4.a in Future MIV exploration experiment (April, 2021)
+- m57492 Results for EE3 on Future MIV (July, 2021)
 
+--- 
+- More_Detail(Not ready) : https://chldydgh4687.github.io
 --- 
 
 ### ⚡ interesting
