@@ -27,8 +27,8 @@
 --- 
 
 ### ⚡ interesting
-- Making some food.
-- Playing most of sports, Guitar.
+- playing new experimence.
+- paper review in a one week.
 
 <!--
 **chldydgh4687/chldydgh4687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
