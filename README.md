@@ -6,7 +6,7 @@
 
  ### 🔭 Focusing on major.
 - VideoCoding [VVC,TMIV(MPEGI)]
-- ImageRestoration [DeepLearning ( SuperResolution, GAN )]
+- ImageRestoration [DeepLearning ( SuperResolution )]
 
 
  ### 🔭 Environment Skills
