@@ -18,10 +18,12 @@
 
 
  ### 🔭 Activity
+- K. Choi, T. Van Le, Y. Choi and J. Y. Lee, "Low-Complexity Intra Coding in Versatile Video Coding," in IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2022.3145397.
 - JVET-T0096 AHG11:Deep neural network for super resolution (Oct, 2020)
 - m56611 The crosscheck report for EE4.a in Future MIV exploration experiment (April, 2021)
 - m57492 Results for EE3 on Future MIV (July, 2021)
 - Jin young Lee, Vane The Le, Yongho Choi, Kiho Choi, Low-Complexity Two-Step Lossless Depth Coding Using Coarse Lossy Coding (MTAP-Major Revision, 2021)
+
 --- 
 - More_Detail(Not ready) : https://chldydgh4687.github.io
 --- 
