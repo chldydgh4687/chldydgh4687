@@ -19,12 +19,16 @@
 
  ### 🔭 Publications
  
+ #### International Journal
 - ***“Immersive Video Coding Using Deep Learning Based Specular Detection”, Association for the Advancement of Artificial Intelligence (Under Review)**
 - “Specular Detection and Rendering for Immersive Multimedia”, IEEE Multimedia (Under Review)
 - “Efficient Video Captioning Using Quality Enhancement in Video Communication Systems”, Expert Systems with Applications (Under Review)
 - “Low-Complexity Two-Step Lossless Depth Coding Using Coarse Lossy Coding”, Multimedia Tools and Applications, Apr. 2022 
 - “Low-Complexity Intra Coding in Versatile Video Coding”, IEEE Trans. Consumer Electronics, May 2022  
 *:First Order  
+
+ #### Domestic Journal
+ - ***"몰입형 입체 영상 부호화를 위한 VVC 인루프 필터 성능 분석", 2022 한국방송미디어공학회 추계학술대회**
 
 ### 🔭 Standardization
 
