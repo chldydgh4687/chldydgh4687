@@ -5,24 +5,38 @@
 
 
  ### 🔭 Focusing on major.
-- VideoCoding [VVC,TMIV(MPEGI)]
-- ImageRestoration [DeepLearning ( SuperResolution )]
+- VideoCoding [VVC,TMIV(MPEGI),VCM]
+- DeepLearning [SuperResolution,S2VT]
 
 
  ### 🔭 Environment Skills
-- Linux(shell), Windows(batch), ffmpeg
 - C++ / Python
+- Video Understanding (TMIV/VCM/VTM)
+- pytorch, tensorflow2
+- ffmpeg(OpenSW)
 - Docker, git management
-- (Studying) pytorch, tensorflow2
-- (Studying) Video Understanding (TMIV/VTM)
 
 
- ### 🔭 Activity
-- K. Choi, T. Van Le, Y. Choi and J. Y. Lee, "Low-Complexity Intra Coding in Versatile Video Coding," in IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2022.3145397.
-- JVET-T0096 AHG11:Deep neural network for super resolution (Oct, 2020)
-- m56611 The crosscheck report for EE4.a in Future MIV exploration experiment (April, 2021)
-- m57492 Results for EE3 on Future MIV (July, 2021)
+ ### 🔭 Jounral
+ 
+- ***“Immersive Video Coding Using Deep Learning Based Specular Detection”, Association for the Advancement of Artificial Intelligence (Under Review)**
+- “Specular Detection and Rendering for Immersive Multimedia”, IEEE Multimedia (Under Review)
+- “Efficient Video Captioning Using Quality Enhancement in Video Communication Systems”, Expert Systems with Applications (Under Review)
+- “Low-Complexity Two-Step Lossless Depth Coding Using Coarse Lossy Coding”, Multimedia Tools and Applications, Apr. 2022 
+- “Low-Complexity Intra Coding in Versatile Video Coding”, IEEE Trans. Consumer Electronics, May 2022 
 
+### 🔭 Standardization
+
+- ***[MPEG-I] “Future MPEG Immersive Video Coding Based on Specular Detection”, m57981, Oct.2021**  
+- ***[MPEG-I] “Deep Learning Based Specular Pruning”, m58997, Jan.2022**  
+- [VVC] “AHG11:Deep Neural Network for Super-Resolution”, JVET-T0096, Oct.2020  
+- [VCM] “VVC tool combination for efficient feature map coding”, m60128, Jul.2022  
+- [VCM] “Performance analysis of VVC inter tools for feature map coding”, m60127, Jul.2022  
+- [VCM] “Performance analysis of VVC intra tools for feature map coding”, m60126, Jul.2022  
+
+### 🔭 Patents
+
+- [출원] “영상의 화질에 따라 초해상도 딥러닝 네트워크를 적용하는 비디오 처리 방법 및 비디오 처리 장치”, 10-2022-0011541
 
 --- 
 - More_Detail(Not ready) : https://chldydgh4687.github.io
