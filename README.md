@@ -17,13 +17,14 @@
 - Docker, git management
 
 
- ### 🔭 Jounral
+ ### 🔭 Jounral 
  
 - ***“Immersive Video Coding Using Deep Learning Based Specular Detection”, Association for the Advancement of Artificial Intelligence (Under Review)**
 - “Specular Detection and Rendering for Immersive Multimedia”, IEEE Multimedia (Under Review)
 - “Efficient Video Captioning Using Quality Enhancement in Video Communication Systems”, Expert Systems with Applications (Under Review)
 - “Low-Complexity Two-Step Lossless Depth Coding Using Coarse Lossy Coding”, Multimedia Tools and Applications, Apr. 2022 
-- “Low-Complexity Intra Coding in Versatile Video Coding”, IEEE Trans. Consumer Electronics, May 2022 
+- “Low-Complexity Intra Coding in Versatile Video Coding”, IEEE Trans. Consumer Electronics, May 2022  
+*:First Order  
 
 ### 🔭 Standardization
 
@@ -33,6 +34,7 @@
 - [VCM] “VVC tool combination for efficient feature map coding”, m60128, Jul.2022  
 - [VCM] “Performance analysis of VVC inter tools for feature map coding”, m60127, Jul.2022  
 - [VCM] “Performance analysis of VVC intra tools for feature map coding”, m60126, Jul.2022  
+*:First Order  
 
 ### 🔭 Patents
 
