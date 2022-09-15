@@ -17,7 +17,7 @@
 - Docker, git management
 
 
- ### 🔭 Jounral 
+ ### 🔭 Publications
  
 - ***“Immersive Video Coding Using Deep Learning Based Specular Detection”, Association for the Advancement of Artificial Intelligence (Under Review)**
 - “Specular Detection and Rendering for Immersive Multimedia”, IEEE Multimedia (Under Review)
