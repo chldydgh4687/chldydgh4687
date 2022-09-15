@@ -34,6 +34,8 @@
 
 - ***[MPEG-I] “Future MPEG Immersive Video Coding Based on Specular Detection”, m57981, Oct.2021**  
 - ***[MPEG-I] “Deep Learning Based Specular Pruning”, m58997, Jan.2022**  
+- [MPEG-I] "The crosscheck report for EE4.a in Future MIV exploration experiment", m56611, April.2021
+- [MPEG-I] "Results for EE3 on Future MIV", m57492, July.2021
 - [VVC] “AHG11:Deep Neural Network for Super-Resolution”, JVET-T0096, Oct.2020  
 - [VCM] “VVC tool combination for efficient feature map coding”, m60128, Jul.2022  
 - [VCM] “Performance analysis of VVC inter tools for feature map coding”, m60127, Jul.2022  
