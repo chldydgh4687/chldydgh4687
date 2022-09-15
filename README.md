@@ -5,7 +5,7 @@
 
 
  ### 🔭 Focusing on major.
-- VideoCoding [VVC,TMIV(MPEGI),VCM]
+- VideoCoding [VVC,MPEG-I(MIV),VCM]
 - DeepLearning [SuperResolution,S2VT]
 
 
