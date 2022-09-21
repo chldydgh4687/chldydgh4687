@@ -21,7 +21,7 @@
  
  #### International Journal
 - ***“Immersive Video Coding Using Deep Learning Based Specular Detection”, Association for the Advancement of Artificial Intelligence (Under Review)**
-- “Specular Detection and Rendering for Immersive Multimedia”, IEEE Multimedia (Under Review)
+- “Specular Detection and Rendering for Immersive Multimedia”, IEEE Multimedia (Major Revisions)
 - “Efficient Video Captioning Using Quality Enhancement in Video Communication Systems”, Expert Systems with Applications (Under Review)
 - “Low-Complexity Two-Step Lossless Depth Coding Using Coarse Lossy Coding”, Multimedia Tools and Applications, Apr. 2022 
 - “Low-Complexity Intra Coding in Versatile Video Coding”, IEEE Trans. Consumer Electronics, May 2022  
